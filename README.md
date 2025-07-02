@@ -26,6 +26,7 @@ Great for beginners learning loops, conditionals, and working with lists.
 
 ```bash
 git clone https://github.com/your-username/shopping-cart-cli.git
+```
 
 2. cd shopping-cart-cli
 
